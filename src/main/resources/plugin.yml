@@ -1,0 +1,8 @@
+name: SimpleAntiCheat
+version: 1.0.0
+main: local.simpleanticheat.SimpleAntiCheatPlugin
+api-version: '1.21'
+description: Lightweight instant-ban anti cheat
+permissions:
+  simpleanticheat.bypass:
+    default: op
